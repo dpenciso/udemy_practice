@@ -1,10 +1,12 @@
-.pink {
-    background: pink;
-    border: 1px solid purple;
+.jumbotron {
+    background: rgb(190, 189, 189);
+    margin-top: 20px;
 }
 
-.orange {
-    background: orange;
-    border: 1px solid red;
-    height: 50px;
+img {
+    margin-bottom: 20px;
+}
+
+.img-thumbnail {
+    border: 1px rgb(138, 136, 136) solid;
 }
